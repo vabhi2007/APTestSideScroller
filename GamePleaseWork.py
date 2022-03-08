@@ -322,3 +322,5 @@ while True:
         Level1()
 
     pygame.display.update()
+
+print("HI?")
