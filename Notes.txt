@@ -1,0 +1,1 @@
+-There can only be 8 objects in the game, one for every inv slot, must be predetermined, ie. (2 = Sword, 3 = HealthPotion)
